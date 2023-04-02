@@ -40,6 +40,7 @@ The analysis is divided into 3 parts:
 -	p2: Exploring Fandango displayed scores versus true user ratings
 -	p3: Comparison of Fandango’s ratings to other sites
 
+Detailed analysis is available in a pdf file named analysis
 
-Detailed analysis is available in doc file named analysis.
+
 
