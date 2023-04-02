@@ -37,9 +37,9 @@ VOTES |  number of people who had reviewed the film at the time we pulled it.
 
 
 The analysis is divided into 3 parts: 
-	p1: Understanding the background and data
-	p2: Exploring Fandango displayed scores versus true user ratings
-	p3: Comparison of Fandango’s ratings to other sites
+-p1: Understanding the background and data
+-p2: Exploring Fandango displayed scores versus true user ratings
+-p3: Comparison of Fandango’s ratings to other sites
 
 Detailed analysis is available in doc file named analysis.
 
