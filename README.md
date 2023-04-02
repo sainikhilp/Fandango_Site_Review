@@ -29,6 +29,7 @@ IMDB_user_vote_count | The number of user votes the film had on IMDb
 
 Fandango_scrape.csv
 Column | Definiton
+--- | -----------
 FILM | The movie
 STARS | Number of stars presented on Fandango.com
 RATING |  The Fandango ratingValue for the film, as pulled from the HTML of each page. This is the actual average score the movie obtained.
